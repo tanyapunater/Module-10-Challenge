@@ -4,7 +4,7 @@
   This project creates an employee database, with access to department, role, and employee information.
   You will be able to view and make changes to the content of this database.
 
-  Video for application use / walkthrough: 
+  Video for application use / walkthrough: https://drive.google.com/file/d/1QPOuMPGfT4IGwRIwPpqVfu9w1lbbNdUe/view?usp=sharing
 
 
   ## Table of Contents
